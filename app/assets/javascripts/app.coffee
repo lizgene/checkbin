@@ -1,0 +1,2 @@
+checkbin = angular.module('checkbin',[
+])
